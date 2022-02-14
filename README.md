@@ -9,3 +9,5 @@ WebArch pour Architecture Web, basé sur les technologies HTML, CSS, JavaScript 
 - Inclusion du logo et moteur, sans requête externe
 - Moteur sur fichiers main.css et main.js
 - Développement en full JavaScript natif
+
+![perf](https://raw.githubusercontent.com/amayant/webarch/main/screenshots/01.png)
